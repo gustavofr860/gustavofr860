@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">An avid learner and programmer</h3>
 
-- 🌱 I’m currently learning **ReactJS and NodeJs (Gonna be learning NextJS soon)**
+- 🌱 I’m currently learning **Rust (Gonna try some blockchain stuff)**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
