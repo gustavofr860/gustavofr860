@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">An avid learner and programmer</h3>
 
-- 🌱 I’m currently but building projects in **React**
+- 🌱 I’m currently building projects in **React**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
